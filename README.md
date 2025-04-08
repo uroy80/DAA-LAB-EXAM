@@ -1,7 +1,7 @@
 
-# Comprehensive Guide to DAA Lab Topics with C Implementations
+# DAA Lab Exam
 
-Based on your lab exam topics, here's a complete set of C implementations with explanations for each algorithm:
+Prepared by Usham Roy
 
 ## 1. Insertion Sort
 
